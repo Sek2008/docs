@@ -1,6 +1,7 @@
 ---
 title: Deploy with {{ $names.company.lower }} button
 excerpt: The Deploy with {{ $names.company.lower }} button allows users to do a single-click deployment and configuration of an application to {{ $names.cloud.lower }}
+Then other people can download your app and install it. It is a way to help the world!
 ---
 
 # Deploy with {{ $names.company.lower }} button
